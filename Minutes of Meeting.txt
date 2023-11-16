@@ -1,0 +1,21 @@
+Minutes of Meeting(MoM) Time : 02:10, Date : 16-11-2023
+
+Business Analysis : 
+Work to do : srs document
+Working status : Not completed.
+Done : No
+
+Designers : 
+Work to do : Design the template.
+Working : design.
+Done : Completed Sample Design.
+
+Developer : 
+Work to do : Create the website based on designers design.
+Working status: Not completed.
+Done : Basic structure.
+
+Tester : 
+Work to do : Testing Not completed.
+Working : N/A.
+Done : N/A.
